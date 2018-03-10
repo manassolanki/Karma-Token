@@ -1,3 +1,3 @@
 # Karma-Token
 
-This is the test repo for learning the Blockchain
+This is a simple Ethereum token for learning the Blockchain
